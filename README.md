@@ -32,4 +32,7 @@ This algorithm typically performs in O(n) time on average but can be O(n * m) in
 - **Count Occurrences with Rabin-Karp Algorithm**: Verifies the number of occurrences of a substring within a larger string using the Rabin-Karp method.
 - **Search Term Not in Text**: Checks that both approaches return zero when the search term is not present in the larger string.
 - **Performance Comparison**: Compares the execution time of both the Brute Force approach and the Rabin-Karp algorithm to ensure the Rabin-Karp algorithm is faster or at least as fast as the Brute Force approach.
+<br></br>
+![image](https://github.com/legituse/string-search/assets/35747061/82d74bce-4d25-4b28-853c-b2b684813506)
+
 
